@@ -1,5 +1,8 @@
 # ClauseLens AI – Intelligent Contract Review Bot
 
+*Live Demo:**  
+https://clauselens-ai-dm25dyrij9xse3btxhjcxp.streamlit.app
+
 ClauseLens AI is an AI-powered contract analysis tool that automatically extracts key clauses, identifies risks, and generates a plain-English summary of legal agreements.
 
 Built as part of an AI Engineer Hiring Task.
